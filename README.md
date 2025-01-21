@@ -69,6 +69,6 @@ If you use this code, please cite our paper.
     title={CliquePH: Higher-Order Information for Graph Neural Networks through Persistent Homology on Clique Graphs},
     author={Davide Buffelli and Farzin Soleymani and Bastian Rieck},
     year={2024},
-    booktitle={Advances in Neural Information Processing Systems (NeurIPS)}
+    booktitle={Learning on Graphs Conference (LoG)}
 }
 ```
